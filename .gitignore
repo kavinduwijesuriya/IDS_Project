@@ -1,0 +1,14 @@
+# Large local data and generated artifacts
+dataset/*.csv
+models/*.pkl
+results/*.csv
+results/*.json
+results/*.png
+
+# Python and Jupyter files
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
